@@ -18,4 +18,4 @@ for(var i=0;i<co.length;i++){
 co[i].style.background='green';
 }
 let bb=document.querySelectorAll('.item');
-bb[1].style.color='green';
+bb[1].style.color='green ';
